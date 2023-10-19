@@ -1,5 +1,5 @@
 body {background-color: rgb(24, 20, 20);}
 
-h1 {color: rgb(200, 200, 200); text-align: center;}
+h1 {background:rgb(24, 20,20); color:rgb(200, 200, 200); text-shadow:1px 1px 10px rgb(200, 200, 200), 1px 1px 10px #ccc; font-size:48px; text-align:center;}
 
-p {background:#111; color:#fff; text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc; font-size:48px; text-align:center;}
+p {color: rgb(200, 200, 200); text-align: justify;}
