@@ -2,4 +2,4 @@ body {background-color: rgb(22, 22, 22);}
 
 h1 {background:rgb(22, 22, 22); color:rgb(200, 200, 200); text-shadow:1px 1px 10px rgb(200, 200, 200), 1px 1px 10px #ccc; font-size:48px; text-align:center;}
 
-p {color: rgb(200, 200, 200); text-align: justify;}
+p {color: rgb(200, 200, 200); padding: 25px 50px; text-align: justify;}
